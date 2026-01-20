@@ -25,6 +25,8 @@ This strategy leverages WordPress's modern features for a fast turnaround and a 
     -   **Images:** An image optimization plugin (e.g., ShortPixel, Imagify).
 5.  **(Add On) Provide Client Training:** Schedule a 1-hour recorded video call to walk the client through the dashboard. Show them how to edit text, change an image, and use the Block Patterns. This small time investment will save countless support hours later.
 
+<div style="page-break-after: always;"></div>
+
 ## 3. Recommended CMS
 
 **Recommendation: Self-hosted WordPress (.org)**
@@ -64,6 +66,8 @@ https://naclinicbali.com/
 
 Light Theme:
 https://www.ellenrikhye.com/en/
+
+<div style="page-break-after: always;"></div>
 
 ## 6. Estimated Development Time
 
